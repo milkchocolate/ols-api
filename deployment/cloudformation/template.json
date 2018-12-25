@@ -52,7 +52,7 @@
           {
             "Namespace": "aws:autoscaling:launchconfiguration",
             "OptionName": "EC2KeyName",
-            "Value": "put a ssh key here!!!!!!"
+            "Value": "beijing-tw-nho-key-pair"
           }
         ],
         "VersionLabel": {

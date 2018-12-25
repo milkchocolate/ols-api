@@ -6,7 +6,7 @@ COMPILED_TEMPLATE_PATH=./deployment/cloudformation/compiled-template.json
 
 AWS_REGION=ap-southeast-2
 STACK_NAME=ols-api
-S3_BUCKET=put a s3 bucket here!!!!!!
+S3_BUCKET=beijing-nho-deployment
 
 ./gradlew clean
 ./gradlew bootJar
