@@ -4,7 +4,7 @@ cd $(dirname $0)/..
 ORIGINAL_TEMPLATE_PATH=./deployment/cloudformation/template.json
 COMPILED_TEMPLATE_PATH=./deployment/cloudformation/compiled-template.json
 
-AWS_REGION=ap-southeast-2
+AWS_REGION=cn-north-1
 STACK_NAME=ols-api
 S3_BUCKET=beijing-nho-deployment
 
