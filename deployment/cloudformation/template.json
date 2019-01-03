@@ -53,6 +53,11 @@
             "Namespace": "aws:autoscaling:launchconfiguration",
             "OptionName": "EC2KeyName",
             "Value": "beijing-tw-nho-key-pair"
+          },
+          {
+            "Namespace": "aws:autoscaling:launchconfiguration",
+            "OptionName": "IamInstanceProfile",
+            "Value": "aws-elasticbeanstalk-ec2-role"
           }
         ],
         "VersionLabel": {
