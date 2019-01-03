@@ -37,7 +37,7 @@
         },
         "Description": "",
         "EnvironmentName": "test",
-        "SolutionStackName": "64bit Amazon Linux 2018.03 v2.12.5 running Docker 18.06.1-ce",
+        "SolutionStackName": "64bit Amazon Linux 2018.03 v2.12.6 running Docker 18.06.1-ce",
         "OptionSettings": [
           {
             "Namespace": "aws:elasticbeanstalk:environment",
